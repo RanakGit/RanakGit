@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144" role="img" aria-labelledby="title">
+  <title id="title">Ranak Halder profile photo with a red glow</title>
+  <defs>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feFlood flood-color="#ff3b3b" flood-opacity="0.85" />
+      <feComposite in2="blur" operator="in" />
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="circle">
+      <circle cx="72" cy="72" r="53" />
+    </clipPath>
+  </defs>
+  <circle cx="72" cy="72" r="57" fill="#ff3b3b" opacity="0.45" filter="url(#glow)" />
+  <circle cx="72" cy="72" r="55" fill="#111827" />
+  <image href="https://avatars.githubusercontent.com/u/212253486?v=4" x="19" y="19" width="106" height="106" preserveAspectRatio="xMidYMid slice" clip-path="url(#circle)" />
+  <circle cx="72" cy="72" r="54" fill="none" stroke="#ff4d4d" stroke-width="3" />
+</svg>
