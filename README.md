@@ -18,9 +18,9 @@ Building reproducible workflows and clear, useful tools for biological data.
 
 | Project | Summary | Tools / area |
 |---|---|---|
-| [OncoBiomarkerR](https://github.com/RanakGit/OncoBiomarkerR) | Reproducible TCGA-LUAD RNA-seq comparison of Stage I and Stage IV tumors, with annotated biomarkers and a browser-ready report. | R[...] |
-| [NGS Variant Calling Pipeline](https://github.com/RanakGit/NGS-Variant-Calling-Pipeline) | End-to-end variant-calling pipeline on trio exome data, presented as an osteopetrosis case study. | Bio[...] |
-| [Endolysin Structural Analysis](https://github.com/RanakGit/Endolysin-Structural-Analysis-PyMOL) | 3D structural visualization, active-site measurement, and site-directed mutagenesis analysis of[...] |
+| [OncoBiomarkerR](https://github.com/RanakGit/OncoBiomarkerR) | Reproducible TCGA-LUAD RNA-seq comparison of Stage I and Stage IV tumors, with annotated biomarkers and a browser-ready report. | R · Bioconductor · DESeq2 · TCGAbiolinks · Quarto |
+| [NGS Variant Calling Pipeline](https://github.com/RanakGit/NGS-Variant-Calling-Pipeline) | End-to-end variant-calling pipeline on trio exome data, presented as an osteopetrosis case study. | Bioinformatics · NGS · Variant calling |
+| [Endolysin Structural Analysis](https://github.com/RanakGit/Endolysin-Structural-Analysis-PyMOL) | 3D structural visualization, active-site measurement, and site-directed mutagenesis analysis of bacteriophage endolysin. | Structural bioinformatics · PyMOL |
 | [QSAR KNIME Pipeline](https://github.com/RanakGit/QSAR-Knime-Pipeline) | QSAR workflow built with KNIME. | Cheminformatics · KNIME |
 
 ---
