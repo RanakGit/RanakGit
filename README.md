@@ -1,6 +1,11 @@
 <div align="center">
-
-<img src="./assets/profile-avatar-glow.svg" width="144" alt="Ranak Halder — profile photo in a circular red-glow badge" />
+  <img
+    src="https://avatars.githubusercontent.com/u/212253486?v=4"
+    width="128"
+    alt="Ranak Halder"
+    style="border-radius: 50%; border: 3px solid #ff4d4d; box-shadow: 0 0 20px rgba(255, 77, 77, 0.8);"
+  />
+</div>
 
 # Ranak Halder
 
