@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/212253486?v=4" width="112" alt="Ranak Halder" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/212253486?v=4" width="128" alt="Ranak Halder" style="border-radius: 50%; border: 3px solid #ff4d4d; box-shadow: 0 0 20px rgba(255, 77, 77, 0.8);" />
 
 # Ranak Halder
 
