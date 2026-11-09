@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/212253486?v=4" width="120" alt="Ranak Halder profile photo" />
+<img src="https://raw.githubusercontent.com/RanakGit/RanakGit/main/assets/profile-avatar-glow.svg" width="144" alt="Ranak Halder profile photo in a circular red-glow frame" />
 
 # Ranak Halder
 
